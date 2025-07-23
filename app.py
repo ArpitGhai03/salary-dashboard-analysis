@@ -4,7 +4,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # Load data
-df = pd.read_csv('../output/cleaned_salaries.csv')
+df = pd.read_csv('cleaned_salaries.csv')
 
 st.title("Data Science & AI Job Salaries Dashboard 2025")
 
